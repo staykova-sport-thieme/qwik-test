@@ -1,3 +1,9 @@
+Testing the Qwik framework
+
+- npm install
+- npm run dev
+- check on: http://localhost:5173/
+
 # Qwik City App ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)
